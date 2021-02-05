@@ -26,5 +26,5 @@ def auto_qiandao(username, pwds, ids):
     driver.find_element_by_xpath("//button[@class='save_form']").click()
 
 
-auto_qiandao("20182324", "253528", "500231")
-auto_qiandao("20184933", "305319", "500237")
+auto_qiandao("自己的账号", "自己的密码", "乡镇代码")
+# 垫江代码："500231"
